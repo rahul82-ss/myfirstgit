@@ -1,2 +1,4 @@
 # myfirstgit
-My first Github experience.
+This is my first Github repository.
+<br>
+Author: Rahul
